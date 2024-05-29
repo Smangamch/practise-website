@@ -1,0 +1,18 @@
+body {
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+}
+.font, .variant {
+  margin: 5px;
+  padding: 5px;
+}
+.font:hover {
+  background-color: #D1E7FF;
+  cursor: pointer;
+}
+p {
+  margin: 10px;
+  font-family: Segoe UI, Tahoma, Arial, sans-serif;
+  font-size: 9pt;
+}

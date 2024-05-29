@@ -1,0 +1,15 @@
+
+
+#Name{
+    background-color: powderblue;
+}
+
+#visible:hover{
+    background-blend-mode: soft-light;
+    color: rgb(51, 51, 204);
+}
+
+p{
+    color: powderblue;
+}
+

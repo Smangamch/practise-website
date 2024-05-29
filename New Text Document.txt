@@ -1,0 +1,47 @@
+Required Development languages!
+
+HTML- HyperText-Markup Language - Done 100%
+
+CSS - Cascading Style Sheet - 
+SELECTOR		USE
+*			ALl elements
+DIV			ALl divs
+DIV, p			All divs and paragraphs
+div p			ALl paragraphs inside divs
+div > p			All p tags, one level deep in div
+div +p			p tags immediately after div
+div"p			p tags preceded by div
+.classname		All elements with class
+#idname			element with ID
+div.Classname		divs with certain classname
+div#idname		div with certain ID	
+#idname*		all elements inside #idname
+		
+Pseudo Selector		USE
+A:hover			ALl elements	
+A:active		All divs
+A:visited 		ALl divs and paragraphs
+Div:empty		All paragraphs inside divs
+P:first-of-type		ALL p tags, one level deep in div
+P:last-of-type		p tags immediately after div
+P:first-child		p tags preceded by divs
+P:nth-child(2)		all elements with class
+
+Attribute Selector	USE
+a[target]		links with a target attribute
+a[target="_blank"]	links which open in new tab
+[title~="chair]		title element containing a word
+[clas^="chair"]		class starts with chair
+[class|="chair"]	class starts with the chair word
+[class*="chair"]	class contains chair
+[class$="chair"]	class ends with chair
+input[type="button"]	specified input type
+	
+Javascript
+JQuery 
+Angular aid framework
+ReactJS
+NOdeJS
+MEAN Stack Application 
+MERN Stack Application
+
